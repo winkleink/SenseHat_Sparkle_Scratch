@@ -13,3 +13,5 @@ Scratch 2.0 is easier to control the Sense Hat with as the custom extension prov
 
 Instead of needed the 'command' with the broadbast, it is a single line of code that is much easier to read.
 
+NOTE: Scratch 2.0 version should work with the Sense Hat Emulator.
+Scratch 1.4 only works with the physical Sense Hat.
